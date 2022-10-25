@@ -1,5 +1,5 @@
-### Hi there 👋
-####Start my journey as a developer
+### Hi there. I Ivan Maidana 👋
+#### Start my journey as a developer
 <!--
 **Ivan9912/ivan9912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
