@@ -3,7 +3,8 @@
 
 
 [![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=White&labelColor=101010)]()
-[![Javascript](https://img.shields.io/badge/Html-F7DF1E?style=for-the-badge&logo=htmlt&logoColor=White&labelColor=101010)]()
+<br>
+[![HTML](https://img.shields.io/badge/Html-F7DF1E?style=for-the-badge&logo=htmlt&logoColor=White&labelColor=101010)]()
 <!--
 **Ivan9912/ivan9912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
