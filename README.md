@@ -1,5 +1,5 @@
 ### Hi there. I Ivan Maidana 👋
-#### Start my journey as a developer and tester DevOps
+#### Start my journey as a developer, tester QA manual and DevOps
 
 ### Skills:
 [![Javascript](https://img.shields.io/badge/Javascript-%231572B6.svg?style=for-the-badge&logo=javascript&logoColor=White&labelColor=101010)]()
